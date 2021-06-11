@@ -1,0 +1,37 @@
+#b01 {
+	background-color: #fffcde
+}
+#b02 {
+	color: whitesmoke;
+	font-size: 30px; 
+}
+body {
+	background-image: url(bulad.jpg);
+}
+.background {
+	width: 700px;
+	margin: auto;
+	background-color: grey
+}
+.isi {
+	padding: 15px
+}
+.isi h2 {
+	text-align: center;
+}
+.isi table {
+	margin-bottom: 10px
+}
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+th, td {
+	padding: 15px;
+}
+.image {
+	align-content: center;
+}
+.text th, td{
+	text-align: left;
+}
